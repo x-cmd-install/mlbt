@@ -1,0 +1,57 @@
+about:
+  description: A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
+  license: MIT
+  homepage: https://mlbt.sh
+  head: dfa1216
+  archived: false
+  latestVersion: v0.5.0
+  collectedAt: 2026-09-01T05:45:58Z
+timeline:
+  created: 2021-04-22
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-04
+popularity:
+  star: 160
+  watcher: 2
+  fork: 20
+  release: 25
+  contributor: 7
+  pullRequest: 20
+  issue: 25
+language:
+  Rust: 601449
+  Dockerfile: 439
+totalLine: 601888
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 13
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 14
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 42
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 44
+  last360d:
+    since: 2025-09-06
+    release: 7
+    mergedPR: 53
+    openPR: 0
+    closedIssue: 5
+    openIssue: 0
+    commit: 56
