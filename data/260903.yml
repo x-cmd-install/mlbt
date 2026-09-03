@@ -1,11 +1,13 @@
 about:
-  description: A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
+  description:
+  |
+    A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
   license: MIT
   homepage: https://mlbt.sh
   head: dfa1216
   archived: false
   latestVersion: v0.5.0
-  collectedAt: 2026-09-03T05:14:20Z
+  collectedAt: 2026-09-03T22:35:13Z
 timeline:
   created: 2021-04-22
   lastCommit: 2026-08-31
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 601449
   Dockerfile: 439
-totalLine: 601888
+totalBytes: 601888
 recent:
   last30d:
     since: 2026-08-04
