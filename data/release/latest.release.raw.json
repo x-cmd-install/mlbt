@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2335715,
       "digest": "sha256:fc0c5653c7cf1b0354444d2efea1deab53f06cb51fe493c4a8c6a3d228c6ab92",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-09-06T16:34:53Z",
       "updated_at": "2026-09-06T16:34:54Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-apple-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2569705,
       "digest": "sha256:488c4ae7e836268a695b7cf66e9961a8d62fff2f4321476cc92325ea79b7bb83",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-06T16:34:42Z",
       "updated_at": "2026-09-06T16:34:42Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-unknown-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:c8845009097196e3929d5a39291fa082483fa2f1367e16b33bd905565b27d712",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-06T16:34:40Z",
       "updated_at": "2026-09-06T16:34:40Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-gnu.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2747391,
       "digest": "sha256:06c8c43ec9acbab4470e8857cc199a09174bb7a784943946dffd0307cf8ca771",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-06T16:34:40Z",
       "updated_at": "2026-09-06T16:35:42Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2842905,
       "digest": "sha256:ace87c6d9018276a33af4efb083793813e521181bd89cb9dbd819c4262f8e219",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-06T16:34:41Z",
       "updated_at": "2026-09-06T16:34:42Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-musl.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1977144,
       "digest": "sha256:98b58512406703f1cea9562e4349ea102dfb28ebe7efd4b8ba764e654509e613",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-06T16:34:36Z",
       "updated_at": "2026-09-06T16:34:36Z",
       "browser_download_url": "https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt_0.6.0-1_amd64.deb"
