@@ -23,7 +23,31 @@ x install mlbt
 - **Latest**: `v0.6.0` (2026-09-06)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 20
-- **Published**: 2026-09-06T16:34:37Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [mlbt-0.6.0-1.aarch64.rpm](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-0.6.0-1.aarch64.rpm) | 2.0 MiB | `runtime/rpm/aarch64` |
+| [mlbt-0.6.0-1.x86_64.rpm](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-0.6.0-1.x86_64.rpm) | 2.1 MiB | `runtime/rpm/x86_64` |
+| [mlbt-aarch64-apple-darwin.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-apple-darwin.sha256) | 99 B | `native/darwin/arm64` |
+| [mlbt-aarch64-apple-darwin.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-apple-darwin.tar.gz) | 2.2 MiB | `native/darwin/arm64` |
+| [mlbt-aarch64-unknown-linux-gnu.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-unknown-linux-gnu.sha256) | 104 B | `native/linux/arm64/glibc` |
+| [mlbt-aarch64-unknown-linux-gnu.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/arm64/glibc` |
+| [mlbt-aarch64-unknown-linux-musl.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-unknown-linux-musl.sha256) | 105 B | `native/linux/arm64/musl` |
+| [mlbt-aarch64-unknown-linux-musl.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-aarch64-unknown-linux-musl.tar.gz) | 2.5 MiB | `native/linux/arm64/musl` |
+| [mlbt-armv7-unknown-linux-gnueabihf.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-armv7-unknown-linux-gnueabihf.sha256) | 108 B | `native/linux/arm/glibc` |
+| [mlbt-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-armv7-unknown-linux-gnueabihf.tar.gz) | 2.2 MiB | `native/linux/arm/glibc` |
+| [mlbt-x86_64-apple-darwin.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-apple-darwin.sha256) | 98 B | `native/darwin/x64` |
+| [mlbt-x86_64-apple-darwin.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-apple-darwin.tar.gz) | 2.4 MiB | `native/darwin/x64` |
+| [mlbt-x86_64-pc-windows-msvc.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-pc-windows-msvc.sha256) | 65 B | `native/win/x64` |
+| [mlbt-x86_64-pc-windows-msvc.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-pc-windows-msvc.tar.gz) | 2.3 MiB | `native/win/x64` |
+| [mlbt-x86_64-unknown-linux-gnu.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-gnu.sha256) | 103 B | `native/linux/x64/glibc` |
+| [mlbt-x86_64-unknown-linux-gnu.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/x64/glibc` |
+| [mlbt-x86_64-unknown-linux-musl.sha256](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-musl.sha256) | 104 B | `native/linux/x64/musl` |
+| [mlbt-x86_64-unknown-linux-musl.tar.gz](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
+| [mlbt_0.6.0-1_amd64.deb](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt_0.6.0-1_amd64.deb) | 1.9 MiB | `runtime/deb/amd64` |
+| [mlbt_0.6.0-1_arm64.deb](https://github.com/mlb-rs/mlbt/releases/download/v0.6.0/mlbt_0.6.0-1_arm64.deb) | 1.7 MiB | `runtime/deb/arm64` |
 
 ## Popularity
 
@@ -58,8 +82,8 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 Install metadata for mlbt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mlbt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mlbt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mlbt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:57Z._
