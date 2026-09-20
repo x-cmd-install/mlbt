@@ -4,7 +4,7 @@
 
 A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
 
-![mlbt](https://repo.x-cmd.io/mlbt.svg?lang=zh)
+[![x-cmd/install — mlbt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mlbt.svg?lang=zh)](https://x-cmd.com/install/mlbt)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install mlbt
 
 ## 流行度
 
-- **Star**: 164 · **Fork**: 20 · **开放 issue**: 25 · **贡献者**: 7
+- **Star**: 165 · **Fork**: 20 · **开放 issue**: 25 · **贡献者**: 7
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install mlbt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 2 | 13 | 0 | 0 | 0 | 15 |
-| last180d | 2026-03-22 | 6 | 38 | 0 | 4 | 0 | 39 |
-| 360d | 2025-09-23 | 8 | 54 | 0 | 5 | 0 | 57 |
-| last720d | 2024-09-28 | 15 | 93 | 0 | 10 | 0 | 104 |
+| 30d | 2026-08-21 | 1 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-22 | 2 | 13 | 0 | 0 | 0 | 15 |
+| last180d | 2026-03-24 | 6 | 36 | 0 | 4 | 0 | 32 |
+| 360d | 2025-09-25 | 8 | 54 | 0 | 5 | 0 | 57 |
+| last720d | 2024-09-30 | 15 | 93 | 0 | 10 | 0 | 104 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ mlbt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:14:18Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:10:50Z._

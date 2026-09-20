@@ -4,7 +4,7 @@
 
 A terminal user interface for the MLB Stats API. Check scores, standings, and stats. Even watch a baseball game in your terminal! ⚾
 
-![mlbt](https://repo.x-cmd.io/mlbt.svg)
+[![x-cmd/install — mlbt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mlbt.svg)](https://x-cmd.com/install/mlbt)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 164 · **Forks**: 20 · **Open issues**: 25 · **Contributors**: 7
+- **Stars**: 165 · **Forks**: 20 · **Open issues**: 25 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 2 | 13 | 0 | 0 | 0 | 15 |
-| last180d | 2026-03-22 | 6 | 38 | 0 | 4 | 0 | 39 |
-| 360d | 2025-09-23 | 8 | 54 | 0 | 5 | 0 | 57 |
-| last720d | 2024-09-28 | 15 | 93 | 0 | 10 | 0 | 104 |
+| 30d | 2026-08-21 | 1 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-22 | 2 | 13 | 0 | 0 | 0 | 15 |
+| last180d | 2026-03-24 | 6 | 36 | 0 | 4 | 0 | 32 |
+| 360d | 2025-09-25 | 8 | 54 | 0 | 5 | 0 | 57 |
+| last720d | 2024-09-30 | 15 | 93 | 0 | 10 | 0 | 104 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for mlbt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:49Z._
