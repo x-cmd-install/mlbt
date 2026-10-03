@@ -48,12 +48,12 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-03 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-04 | 2 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-05 | 5 | 30 | 0 | 4 | 0 | 32 |
-| 360d | 2025-10-07 | 8 | 54 | 0 | 5 | 0 | 57 |
-| last720d | 2024-10-12 | 15 | 93 | 0 | 10 | 0 | 104 |
+| 30d | 2026-09-03 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-04 | 1 | 6 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-05 | 1 | 6 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-06 | 5 | 29 | 0 | 4 | 0 | 32 |
+| 360d | 2025-10-08 | 8 | 54 | 0 | 5 | 0 | 57 |
+| last720d | 2024-10-13 | 15 | 93 | 0 | 10 | 0 | 104 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for mlbt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:51:38Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:26:02Z._
