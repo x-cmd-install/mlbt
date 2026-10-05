@@ -38,7 +38,7 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 166 · **Forks**: 21 · **Open issues**: 25 · **Contributors**: 7
+- **Stars**: 167 · **Forks**: 21 · **Open issues**: 25 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **196,423** lines of code across **123** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-05 | 1 | 6 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-06 | 1 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-07 | 5 | 29 | 0 | 4 | 0 | 29 |
-| 360d | 2025-10-09 | 8 | 54 | 0 | 5 | 0 | 57 |
-| last720d | 2024-10-14 | 15 | 93 | 0 | 10 | 0 | 104 |
+| 30d | 2026-09-05 | 1 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-06 | 1 | 6 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-07 | 1 | 6 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-08 | 5 | 29 | 0 | 4 | 0 | 0 |
+| 360d | 2025-10-10 | 8 | 54 | 0 | 5 | 0 | 0 |
+| last720d | 2024-10-15 | 15 | 93 | 0 | 10 | 0 | 104 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for mlbt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:04:33Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:44:48Z._
